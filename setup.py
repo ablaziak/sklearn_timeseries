@@ -8,8 +8,8 @@ setup(
     description='Library helps to use timeseries sets properly with scikit-learn',
     author='Albert',
     author_email='albert.blaziak@gmail.com',
-    url='https://github.com/ablaziak/sklearn-timeseries',
-    download_url='https://github.com/ablaziak/sklearn-timeseries/archive/refs/tags/v0.3.tar.gz',
+    url='https://github.com/ablaziak/sklearn_timeseries',
+    download_url='https://github.com/ablaziak/sklearn_timeseries/archive/refs/tags/v0.3.tar.gz',
     keywords=['timeseries', 'sklearn', 'scikit-learn', 'machine_learning'],
     install_requires=[],
     classifiers=[
