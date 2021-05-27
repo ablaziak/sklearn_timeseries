@@ -3,13 +3,13 @@ from distutils.core import setup
 setup(
     name='sklearn_timeseries',
     packages=['sklearn_timeseries'],
-    version='0.2',
+    version='0.3',
     license='MIT',
     description='Library helps to use timeseries sets properly with scikit-learn',
     author='Albert',
     author_email='albert.blaziak@gmail.com',
     url='https://github.com/ablaziak/sklearn-timeseries',
-    download_url='https://github.com/ablaziak/sklearn-timeseries/archive/refs/tags/v0.2.tar.gz',
+    download_url='https://github.com/ablaziak/sklearn-timeseries/archive/refs/tags/v0.3.tar.gz',
     keywords=['timeseries', 'sklearn', 'scikit-learn', 'machine_learning'],
     install_requires=[],
     classifiers=[

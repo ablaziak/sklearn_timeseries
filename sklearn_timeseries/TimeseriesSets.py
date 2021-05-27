@@ -12,4 +12,4 @@ def get_sets(train_gen, test_gen):
             x_test.append(i)
             y_test.append(j)
 
-    return x_train, y_train, x_test, y_test
+    return x_train, x_test, y_train, y_test
